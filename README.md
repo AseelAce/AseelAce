@@ -1,4 +1,4 @@
-## Hello, I'm Aseel 👋
+# Hello, I'm Aseel 👋
 
 - 🔭 I'm currently working on refining my GitHub repository, exploring new programming languages, and adding exciting projects to my portfolio in the near future.
 
