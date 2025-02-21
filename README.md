@@ -21,7 +21,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Get in Touch
-- Feel free to reach out to me via email: Haris.Mahmood.01@hotmail.com
+- Feel free to reach out to me via email: aseelbabu11@gmail.com
 
 - Let's code and create something awesome together! 🚀
 
